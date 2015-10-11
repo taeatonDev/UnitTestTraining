@@ -1,0 +1,146 @@
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll.config
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Microsoft.Web.Infrastructure.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\SMG.Core.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\WebActivatorEx.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\WebGrease.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.csprojResolveAssemblyReference.cache
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll.config
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Microsoft.Web.Infrastructure.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\SMG.Core.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\WebActivatorEx.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\WebGrease.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Data.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\SMG.Core.Data.MongoDB.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Bson.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Driver.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Data.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Bson.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Driver.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.csprojResolveAssemblyReference.cache
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll.config
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Microsoft.Web.Infrastructure.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\SMG.Core.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\WebActivatorEx.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\WebGrease.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Data.Models.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\SMG.Core.Data.MongoDB.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Bson.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Driver.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.Models.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Business.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Common.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Ninject.Web.Mvc.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Helpers.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Mvc.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Optimization.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Razor.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Deployment.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.WebPages.Razor.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Antlr3.Runtime.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\Newtonsoft.Json.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Net.Http.Formatting.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\System.Web.Http.WebHost.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\UnitTestWorkshop.Data.Models.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Bson.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\bin\MongoDB.Driver.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.csprojResolveAssemblyReference.cache
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop\obj\Debug\UnitTestWorkshop.pdb

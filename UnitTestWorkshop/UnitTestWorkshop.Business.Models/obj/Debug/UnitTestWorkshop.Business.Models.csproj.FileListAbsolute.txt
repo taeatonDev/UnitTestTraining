@@ -1,0 +1,14 @@
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\UnitTestWorkshop.Business.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\UnitTestWorkshop.Business.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\SMG.Core.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\SMG.Core.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.csprojResolveAssemblyReference.cache
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\UnitTestWorkshop.Business.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\UnitTestWorkshop.Business.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\SMG.Core.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\bin\Debug\SMG.Core.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.csprojResolveAssemblyReference.cache
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business.Models\obj\Debug\UnitTestWorkshop.Business.Models.pdb

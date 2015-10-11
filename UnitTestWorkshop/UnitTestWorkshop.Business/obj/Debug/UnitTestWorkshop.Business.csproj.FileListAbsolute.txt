@@ -1,0 +1,55 @@
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.csprojResolveAssemblyReference.cache
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.Data.MongoDB.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Bson.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Driver.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Bson.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Driver.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.csprojResolveAssemblyReference.cache
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.Data.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\SMG.Core.Data.MongoDB.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Bson.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Driver.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Business.Models.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\UnitTestWorkshop.Data.pdb
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\Ninject.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Bson.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\bin\Debug\MongoDB.Driver.xml
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.csprojResolveAssemblyReference.cache
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.dll
+\\AEATON01\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Business\obj\Debug\UnitTestWorkshop.Business.pdb

@@ -1,0 +1,24 @@
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\UnitTestWorkshop.Data.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Bson.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Driver.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.Data.MongoDB.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Bson.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Driver.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.csprojResolveAssemblyReference.cache
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\UnitTestWorkshop.Data.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Bson.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Driver.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.Data.MongoDB.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\SMG.Core.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Bson.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\bin\Debug\MongoDB.Driver.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.csprojResolveAssemblyReference.cache
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data.Models\obj\Debug\UnitTestWorkshop.Data.Models.pdb

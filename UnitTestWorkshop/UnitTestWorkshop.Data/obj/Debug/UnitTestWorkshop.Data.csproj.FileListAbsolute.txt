@@ -1,0 +1,32 @@
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Bson.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Driver.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\Ninject.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.Data.MongoDB.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.Models.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Bson.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Driver.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\Ninject.xml
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.csprojResolveAssemblyReference.cache
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.dll
+c:\users\aeaton\documents\visual studio 2013\Projects\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Bson.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Driver.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\Ninject.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.Data.MongoDB.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\SMG.Core.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.Models.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\UnitTestWorkshop.Data.Models.pdb
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Bson.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\MongoDB.Driver.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\bin\Debug\Ninject.xml
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.csprojResolveAssemblyReference.cache
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.dll
+C:\UnitTestingTraining\UnitTestWorkshop\UnitTestWorkshop.Data\obj\Debug\UnitTestWorkshop.Data.pdb
