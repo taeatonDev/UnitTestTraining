@@ -46,6 +46,15 @@ namespace UnitTestWorkshop.Business.Providers
             _systemTime = systemTime;
         }
 
+        /// <summary>
+        /// Business Requirements:
+        /// 1. Should not create account if email is in use.
+        /// 2. Should use repository to get new user model.
+        /// 3. Should call Create on repository.
+        /// 4. Should call Save on repository.
+        /// 5. Should assign email, first name, and last name to new user model.
+        /// 6. Should setup new credentials.
+        /// </summary>
         public UserAccount CreateAccount(UserAccount newAccount, Credentials newCredentials)
         {
             VerifyEmailIsntInUse(newAccount);
@@ -112,6 +121,13 @@ namespace UnitTestWorkshop.Business.Providers
             }
         }
 
+        /// <summary>
+        /// Buisness Requirements:
+        /// 1. Verify if Email address is in use.
+        /// 2. If it is in use, throw exception.
+        /// 3. Exception message should include email that was found to be in use.
+        /// 4. If not in use, do nothing.
+        /// </summary>
         public void VerifyEmailIsntInUse(UserAccount newAccount)
         {
             var query = new ByUserEmail

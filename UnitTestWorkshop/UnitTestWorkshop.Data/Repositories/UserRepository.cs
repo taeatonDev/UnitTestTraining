@@ -33,19 +33,21 @@ namespace UnitTestWorkshop.Data.Repositories
         /// Business Requirements:
         /// 1. Provide a new model with defaulted initial values.
         /// 2. UserId must be generated and provided on new model creation.
-        /// 3. Create Late must be set to current Date Time in UTC on new model creation.
+        /// 3. Create Date must be set to current Date Time in UTC on new model creation.
         /// </summary>
         /// <returns></returns>
         public User New()
         {
+            var creationDate = _systemTime.Current();
+
             return new User
             {
                 UserId = new ObjectId().ToString(),
-                CreationDate = _systemTime.Current(),
+                CreationDate = creationDate,
                 Email = string.Empty,
                 FirstName = string.Empty,
                 LastName = string.Empty,
-                LastLogin = _systemTime.Current()
+                LastLogin = creationDate
             };
         }
 
