@@ -20,7 +20,7 @@ namespace QuickReferenceTests
         [TestInitialize]
         [Description("Initializes before every Test.")]
         //You can name this whatever you want, InitializeSubject is just an example.
-        public static void InitializeSubject(TestContext context)
+        public void InitializeSubject()
         {
             _subject = new TestSubject(_mockInterface.Object);
         }
